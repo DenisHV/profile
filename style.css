@@ -14,3 +14,35 @@
     align-items: center;
     justify-content: center;
 }
+.profile{
+    background: #101118;
+    text-align: center;
+    padding: 150px 150px;
+    color: #eae3e3;
+    position: relative;
+    border-radius: 50px;
+}
+.menu-icon
+{
+    width: 40px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+.setting-icon
+{
+    width: 40px;
+    position: absolute;
+    right: 40px;
+    top: 40px;
+}
+.profile-pic{
+    width: 200px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 6px;
+    margin-top: 40px;
+    position: absolute;
+    top: -120px;
+    left: 290px;
+}
